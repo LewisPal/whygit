@@ -1,8 +1,6 @@
 #Why use GitHub? 
 #A group presentation by:Lewis, Samar, Siv, Thomas, and Uppy. 
 
-x§x§
-
 # install and load tidyverse
 install.packages("tidyverse")
 library(tidyverse)

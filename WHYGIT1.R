@@ -15,5 +15,4 @@ library(tidyverse)
 # front (f) or rear (r)
 ggplot(data = mpg) +
   geom_point(mapping = aes(x = displ, y = hwy, color = drv))+
-  geom_smooth(mapping = aes(displ,hwy, color = drv))
 >>>>>>> 9a78e6b1f2c6e99ea36b092ffb2a24e31c376959
